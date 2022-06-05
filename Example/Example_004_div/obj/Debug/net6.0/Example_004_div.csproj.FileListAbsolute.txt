@@ -1,0 +1,15 @@
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\bin\Debug\net6.0\Example_004_div.exe
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\bin\Debug\net6.0\Example_004_div.deps.json
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\bin\Debug\net6.0\Example_004_div.runtimeconfig.json
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\bin\Debug\net6.0\Example_004_div.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\bin\Debug\net6.0\Example_004_div.pdb
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.csproj.AssemblyReference.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.AssemblyInfoInputs.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.AssemblyInfo.cs
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.csproj.CoreCompileInputs.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\refint\Example_004_div.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.pdb
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\Example_004_div.genruntimeconfig.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_004_div\obj\Debug\net6.0\ref\Example_004_div.dll
