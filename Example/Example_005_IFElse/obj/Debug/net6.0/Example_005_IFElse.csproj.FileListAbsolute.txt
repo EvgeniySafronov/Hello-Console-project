@@ -1,0 +1,15 @@
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\bin\Debug\net6.0\Example_005_IFElse.exe
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\bin\Debug\net6.0\Example_005_IFElse.deps.json
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\bin\Debug\net6.0\Example_005_IFElse.runtimeconfig.json
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\bin\Debug\net6.0\Example_005_IFElse.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\bin\Debug\net6.0\Example_005_IFElse.pdb
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.csproj.AssemblyReference.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.AssemblyInfoInputs.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.AssemblyInfo.cs
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.csproj.CoreCompileInputs.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\refint\Example_005_IFElse.dll
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.pdb
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\Example_005_IFElse.genruntimeconfig.cache
+C:\Users\klino\Desktop\Учеба\Знакомство с языками програмирования\Лекция 1\Example\Example_005_IFElse\obj\Debug\net6.0\ref\Example_005_IFElse.dll
